@@ -1,4 +1,0 @@
-Dasar
-- Memiliki Pengetahuan Github
-- Mempelajari Praktek Github
-- Membuat suatu project
