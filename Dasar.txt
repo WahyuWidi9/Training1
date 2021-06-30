@@ -1,0 +1,4 @@
+Dasar
+- Mempelajari Github
+- Mempraktekan Github
+- Membuat suatu project
